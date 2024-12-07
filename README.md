@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">My name is Lior Esterkin and I'm a software engineer student.</p>
+<p align="left">Hi there! My name is Lior Esterkin and I'm a software engineer student with a keen interest in building robust and efficient software solutions. I'm currently honing my skills and looking for my first student job in Software Engineering to gain hands-on experience and contribute to exciting projects. <br> 
+
+ <br> 🌱 Learning: Constantly improving my skills in Python, data structures, and algorithms.
+ <br> 🤝 Open Source Enthusiast: Eager to contribute to Python-based open-source projects and collaborate with like-minded developers.
+ <br> 🛠️ Tech Interests: Backend development, software design, and solving real-world problems with code.
+ <br> 🚀 Goal: To grow as a developer while making meaningful contributions to the tech community.
+ <br> Feel free to connect with me or check out my projects! Let's build something great together!</p>
 
 ###
 <!--
@@ -59,4 +65,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+Hi there! I'm a passionate Software Engineering student with a keen interest in building robust and efficient software solutions. I'm currently honing my skills and looking for my first student job in Software Engineering to gain hands-on experience and contribute to exciting projects.
+
+🌱 Learning: Constantly improving my skills in Python, data structures, and algorithms.
+🤝 Open Source Enthusiast: Eager to contribute to Python-based open-source projects and collaborate with like-minded developers.
+🛠️ Tech Interests: Backend development, software design, and solving real-world problems with code.
+🚀 Goal: To grow as a developer while making meaningful contributions to the tech community.
+Feel free to connect with me or check out my projects! Let's build something great together!
 -->
