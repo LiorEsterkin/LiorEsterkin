@@ -7,8 +7,9 @@
  <br> 🌱 Learning: Constantly improving my skills in Python, data structures, and algorithms.
  <br> 🤝 Open Source Enthusiast: Eager to contribute to Python-based open-source projects and collaborate with like-minded developers.
  <br> 🛠️ Tech Interests: Backend development, software design, and solving real-world problems with code.
- <br> 🚀 Goal: To grow as a developer while making meaningful contributions to the tech community.
- <br> Feel free to connect with me or check out my projects! Let's build something great together!</p>
+ <br> 🚀 Goal: To grow as a developer while making meaningful contributions to the tech community.<br>
+ 
+ <br>Feel free to connect with me or check out my projects! Let's build something great together!</p>
 
 ###
 <!--
