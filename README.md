@@ -5,8 +5,9 @@
 <p align="left">Hi there! My name is Lior Esterkin and I'm a software engineer student. I'm currently honing my skills and looking for my first student job in Software Engineering to gain hands-on experience and contribute to exciting projects. <br> 
 
  <br> 🌱 Learning: Constantly improving my skills in Python, data structures, and algorithms.
- <!--br> 🤝 Open Source Enthusiast: Eager to contribute to Python-based open-source projects and collaborate with like-minded developers.-->
  <br> 🛠️ Tech Interests: Backend development, software design, and solving real-world problems with code.
+ <!--br> 🤝 Open Source Enthusiast: Eager to contribute to Python-based open-source projects and collaborate with like-minded developers.-->
+
  <!--br> 🚀 Goal: To grow as a developer while making meaningful contributions to the tech community.<br-->
  
  <!--br>Feel free to connect with me or check out my projects! Let's build something great together!</p -->
