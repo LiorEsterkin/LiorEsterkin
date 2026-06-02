@@ -21,16 +21,16 @@ Passionate about software development, problem solving, and building practical s
 ### Technologies
 
 **Languages** <br>
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css)](https://skillicons.dev)
 <!--Python · C · C++ · Java · JavaScript -->
 
 **Backend / Databases**<br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,nextjs,firebase)](https://skillicons.dev) 
 
 <!--MySQL · Node.js -->
 
 **Tools / Environment** <br>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,anaconda,gcp)](https://skillicons.dev) 
 
 <!--Linux · Git · Anaconda -->
 
